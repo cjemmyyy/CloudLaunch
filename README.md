@@ -173,25 +173,6 @@ All components were tested to ensure:
 - Security groups act as virtual firewalls
 - Database tier isolated from public internet
 
-## Submission Instructions
-
-### Console Access Details
-- **AWS Console URL**: `https://062823296349.signin.aws.amazon.com/console`
-- **Account ID**: `062823296349`
-
-### IAM User Credentials
-- **Username**: `cloudlaunch-user`
-- **Temporary Password**: `TempPassword123!`
-- **Password Reset Required**: ✅ Yes - User must change password on first console login
-
-### Login Instructions
-1. Navigate to the AWS Console URL above
-2. Enter Account ID (if using generic console URL)
-3. Username: `cloudlaunch-user`
-4. Password: `TempPassword123!`
-5. System will prompt to create new password on first login
-6. Follow AWS password policy requirements for new password
-
 ## S3 STATIC LINK
 http://cloudlaunch-site-24082025.s3-website-eu-west-1.amazonaws.com/
 
