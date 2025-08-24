@@ -201,6 +201,7 @@ http://cloudlaunch-site-24082025.s3-website-eu-west-1.amazonaws.com/
 du301f9xgsmix.cloudfront.net
 
 ## FORMATTED JSON POLICY
+```
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -253,7 +254,7 @@ du301f9xgsmix.cloudfront.net
         }
     ]
 }
-
+```
 
 
 **Documentation**: This README serves as the primary reference for the CloudLaunch AWS infrastructure implementation
