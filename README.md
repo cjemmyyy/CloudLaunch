@@ -182,8 +182,6 @@ All components were tested to ensure:
 ### IAM User Credentials
 - **Username**: `cloudlaunch-user`
 - **Temporary Password**: `TempPassword123!`
-- **Access Key ID**: `AKIAQ5IEPNVO5VENJPSZ`
-- **Secret Access Key**: `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`
 - **Password Reset Required**: ✅ Yes - User must change password on first console login
 
 ### Login Instructions
